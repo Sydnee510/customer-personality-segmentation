@@ -17,6 +17,13 @@
 
 <br>
 
+![Customers](https://img.shields.io/badge/Customers-2%2C240-blueviolet?style=flat-square)
+![Features](https://img.shields.io/badge/Features-30-blue?style=flat-square)
+![Clusters](https://img.shields.io/badge/Clusters-4-orange?style=flat-square)
+![Algorithm](https://img.shields.io/badge/Algorithm-K--Means-green?style=flat-square)
+
+<br>
+
 </div>
 
 ---
